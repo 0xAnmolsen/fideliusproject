@@ -1,0 +1,6 @@
+e
+{"user":{"id":12345,"name":"John Doe","email":"johndoe@example.com","address":{"street":"123 Main St","city":"Metropolis","state":"NY","zip":"12345"}},"order":{"id":67890,"date":"2024-08-12","items":[{"productId":9876,"productName":"Super Widget","quantity":3,"price":19.99},{"productId":5432,"productName":"Mega Gadget","quantity":1,"price":99.99}],"total":159.96},"payment":{"method":"Credit Card","status":"Completed"}}
+aDQ0WkHfCVWY0+qACIzRKAEAWPfmk58T9+1VWlntV28=
+WnJoEPAHRi4jQImgSQ9zChRT7cBD+3/b4h4MWBtIa1U=
+DzqxKLlGsUvlmrt8IKO4y9Uy0APm95goa5AU4KydxQY=
+BE8l26STRcKL0gbXzlRx+Yl1f9sgoiqaciPEHWkdwEqwGkYY4ZGXxWiW73v6kQKQD+dNdEFkkjijA1oii/hZz18=
